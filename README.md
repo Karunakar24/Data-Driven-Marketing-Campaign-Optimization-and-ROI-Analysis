@@ -86,21 +86,24 @@ An additional **Performance Score** was engineered to enable objective compariso
 ### 1️⃣ Executive KPI Overview
 High-level snapshot of campaign performance including CPC, CTR, engagement, spend, and ULC.
 
-![Executive KPI Overview](visuals/dashboard_kpi_overview.png)
+<img width="928" height="523" alt="Dashboard_ Executive KPI Overview" src="https://github.com/user-attachments/assets/1bda9e25-f48b-4171-9b87-66a7a67863b2" />
+
 
 ---
 
 ### 2️⃣ Campaign Performance Comparison
 Side-by-side comparison of campaigns highlighting cost inefficiencies and engagement gaps.
 
-![Campaign Performance Comparison](visuals/dashboard_campaign_comparison.png)
+<img width="929" height="523" alt="Dashboard_Campaign Performance Comparison" src="https://github.com/user-attachments/assets/f7563847-b7d5-4683-ba13-950b8f0846f4" />
+
 
 ---
 
 ### 3️⃣ Root Cause & Efficiency Analysis
 Deep-dive analysis linking cost, engagement, and conversion efficiency to explain *why* campaigns underperform.
 
-![Root Cause Analysis](visuals/dashboard_root_cause_analysis.png)
+<img width="928" height="519" alt="Dashboard_Root Cause and Efficiency Analysis" src="https://github.com/user-attachments/assets/ffa5510e-96bd-4b1e-94f4-8bc0653f1d78" />
+
 
 ---
 
