@@ -1,0 +1,4 @@
+campaign_id,campaign_name,click-through_rate_(ctr_in_%),engagement_rate,cpc,amount_spent_in_inr,performance_score
+Campaign 10,SHU_Students(UK),3.56,3.5616438356164384,8.736923076923077,113.58,0.4088609645692078
+Campaign 3,SHU_Students(Australia),2.33,2.331804281345566,7.800819672131148,475.85,0.4577814999626836
+Campaign 3,SHU_Students(Australia),4.05,4.054054054054054,10.184444444444445,91.66,0.3505603513969585
