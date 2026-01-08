@@ -117,9 +117,31 @@ These campaigns showed:
 - Low engagement and CTR
 - Poor overall performance scores
 
-### ✅ High-Performing Campaigns
-- Campaigns in regions like **Nigeria** demonstrated strong engagement and cost efficiency
-- Recommended for **budget scaling**
+### ✅ High-Performing Campaigns (Scale Opportunities)
+
+Based on strong engagement and cost efficiency, the following campaigns demonstrated **high ROI** and are recommended for **budget scaling**:
+
+- **Campaign 8 – Nigeria**
+- **Campaign 2 – Group 2 Regions - Students Apart from India and US**
+
+These campaigns demonstrated:
+- High CTR
+- Low CPC (strong cost efficiency)
+- High-volume, quality clicks
+
+- **Recommended Action for Campaign 8:** Increase budget allocation to maximize returns from this high-performing region.
+- **Recommended Action for Campaign 2:** Expand this campaign to similar geographies with comparable audience profiles.
+
+### 🔧 Campaigns to Optimize (Moderate Performance)
+- **Campaign 9 – UAE**
+- **Campaign 7 – Nepal**
+
+These campaigns showed:
+- Moderate cost efficiency but weak engagement or CTR
+- Potential for improvement with targeted optimizations
+
+- **Recommended Action for Campaign 9:** A/B test ad creatives to improve CTR.
+- **Recommended Action for Campaign 7:** Refine audience targeting (focus on younger demographics of age (13-17))
 
 ---
 
